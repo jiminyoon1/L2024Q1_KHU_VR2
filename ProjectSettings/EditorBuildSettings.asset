@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/W08_VR/W08_VR.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/KhU_final/KHU_final_01.unity
     guid: d47b454e19296b745a4b4a2145352412
+  - enabled: 0
+    path: Assets/w11_ovr controller/ovr controller.unity
+    guid: ae64717f94c707b479de9ba180520f4d
+  - enabled: 1
+    path: Assets/w11_ovr controller/teleport.unity
+    guid: ea959f00cfa522b429981024f4739f01
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e0acdaa87e799c64d952d1cb7968040b, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6d6ac304cb6b0ee4e8f52d2e6e003645, type: 2}
